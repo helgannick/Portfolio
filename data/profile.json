@@ -55,13 +55,18 @@
     ],
     "portfolio": [
       {
-        "name": "Curso na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/helgannick/POKEDEX",
-
+        
         "name": "Clone da Pagina de login do instagram",
         "url": "https://github.com/helgannick/insta-login-clone",
 
         "github": true
+    },
+    
+    {
+      "name": "Curso na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/helgannick/POKEDEX",
+
+      "github": true
     }
       
     ],
