@@ -54,6 +54,10 @@
       
     ],
     "portfolio": [
+        {
+            "name": "Ecommerce de jogos de consoloe",
+            "url":  "https://lojanextgames.com/"
+        },
       {
         
         "name": "Clone da Pagina de login do instagram",
