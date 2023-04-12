@@ -55,12 +55,13 @@
     ],
     "portfolio": [
         
-        {
-            "name": "Fortune-Cookie"
-            "url": "https://helgannick.github.io/fortune-cookie/"
+       {
+          "name": "Fortune-Cookie"
+           "url": "https://helgannick.github.io/fortune-cookie/"
             
             "github": true
-        },
+      },
+        
       {
         
         "name": "Clone da Pagina de login do instagram",
