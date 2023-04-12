@@ -56,17 +56,10 @@
     "portfolio": [
         
         {
-            "name": "Ecommerce de drones",
-            "url":  "https://www.bbloja.com/"
-        },
-        
-        {
-            "name": "Ecommerce Planeta animal",
-            "url":  "https://www.planetanimal.com.br/"
-        },
-        {
-            "name": "Ecommerce de jogos de consoloe",
-            "url":  "https://lojanextgames.com/"
+            "name": "Fortune-Cookie"
+            "url": "https://helgannick.github.io/fortune-cookie/"
+            
+            "github": true
         },
       {
         
